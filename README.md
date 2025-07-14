@@ -60,5 +60,5 @@ Este proyecto es un portal web institucional desarrollado como trabajo final del
 ## 👨‍💻 Desarrollado por
 
 **Esteban Apaza Ticona**  
-Ingenierro de Sistemas e Informatica
+Ingeniero de Sistemas e Informatica
 
